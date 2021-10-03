@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "multer": "^1.4.3",
+    "nodemon": "^2.0.13"
+  },
+  "name": "100904475_comp3123-exec04",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Elijah Thomas",
+  "license": "ISC",
+  "description": ""
+}
